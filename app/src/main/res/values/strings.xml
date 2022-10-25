@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TokenLoginRetrofit</string>
+    <string name="masuk">Login</string>
+    <string name="silahkan_masukan_data_anda">Silahkan Masukan Data Anda</string>
+    <string name="email">Email</string>
+    <string name="masukan_email_anda">Masukan Email Anda</string>
+    <string name="password">Password</string>
+    <string name="masukan_password_anda">Masukan Password Anda</string>
+    <string name="lupa_password_ya">Lupa Password ya ?</string>
+    <string name="login">Login</string>
+    <string name="masuk_lewat_google">Masuk Lewat Google</string>
+    <string name="belum_punya_akun_ya">Belum Punya Akun</string>
+    <string name="klik_disini">Klik Disini !</string>
+    <string name="bearer_token" />
+    <string name="logout_button">Logout</string>
+    <string name="daftar">Daftarkan</string>
+    <string name="registrasikan">Registrasikan</string>
+    <string name="username">Username</string>
+    <string name="masukan_user_anda">Masukan Username Anda</string>
+    <string name="pw_cf">Konfirmasi Password</string>
+    <string name="konfirmasi_password_anda">Konfirmasi Password Anda</string>
+    <string name="udah_punya_akun_ya">Udah Punya Akun ?</string>
+</resources>
